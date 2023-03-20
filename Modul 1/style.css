@@ -1,0 +1,55 @@
+body {
+    background-color: lightblue;
+}
+
+h1, h2, h3 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+table {
+    background-image: url("baggrund.webp");
+  }
+  body {
+    background-image: url("Background.webp");
+  }
+  a:link {
+    color: whitesmoke;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: whitesmoke;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+html{
+    margin: 40px;
+  }
+  h1,h2,h3 {
+    text-shadow: 1px 1px;
+  }
+  h1,h2,h3 {
+font-family: sans-serif;
+}
+#grad {
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+  }
+  
